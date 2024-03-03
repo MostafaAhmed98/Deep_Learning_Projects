@@ -1,1 +1,3 @@
+This project is an implementation of the VGG16 model, a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford in the paper “Very Deep Convolutional Networks for Large-Scale Image Recognition”. The model is implemented using PyTorch, a popular open-source machine learning library.
 
+The VGG16 model is a deep learning model with 16 layers, including 13 convolutional layers, followed by three fully connected layers. It uses small 3x3 convolution filters and follows a uniform architecture, making it a simple yet powerful model for image classification tasks.
