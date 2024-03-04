@@ -22,5 +22,5 @@ This repository provides a PyTorch implementation for training a VGG16 model on 
 **Additional Notes:**
 
 * This is a basic implementation and can be further extended with features like hyperparameter tuning, visualization dashboards, and model deployment.
-* 
+  
 **Feel free to contribute to this project by improving the code, adding functionalities, or fixing any issues.**
