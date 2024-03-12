@@ -1,3 +1,5 @@
+![resnet](https://github.com/MostafaAhmed98/Deep_Learning_Projects/assets/90983988/f1737666-0a11-4ec5-8558-b3ce6a05af72)
+
 This code implements a deep learning pipeline for training a ResNet50 model on a food image classification task:
 
 **Data Preprocessing:**
