@@ -1,4 +1,4 @@
- **# Image Classification with Transfer Learning using InceptionV3**
+ ** Image Classification with Transfer Learning using InceptionV3**
 
 ![inceptionv3](https://github.com/MostafaAhmed98/Deep_Learning_Projects/assets/90983988/10394e92-3b82-4b20-aa2f-13fbae1ac72c)
 
