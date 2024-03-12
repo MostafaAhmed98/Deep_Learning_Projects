@@ -9,6 +9,8 @@ This repository provides a PyTorch implementation for training a VGG16 model on 
     * Mini-dataset creation for specific food items.
     * Separate training and testing data augmentation.
 * **VGG16 Model:**
+* ![9901cc27a98891e0d30806b6570b055292b40893cb7fa43ec6ca59ef8ec655a3](https://github.com/MostafaAhmed98/Deep_Learning_Projects/assets/90983988/3ecda3ad-5231-4eef-a8e6-3621948df1d2)
+
     * VGG16 architecture with explanations.
     * Adaptable output layer for different class numbers.
 * **Training and Testing:**
