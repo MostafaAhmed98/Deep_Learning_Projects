@@ -15,8 +15,7 @@ This project demonstrates Arabic speech recognition using NVIDIA's NeMo toolkit.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/arabic-speech-recognition.git
-   cd arabic-speech-recognition
+   git clone https://github.com/MostafaAhmed98/arabic-asr
    ```
 
 2. Install the required dependencies:
@@ -36,7 +35,7 @@ This project demonstrates Arabic speech recognition using NVIDIA's NeMo toolkit.
 1. Run the script `arabic_asr.py`:
 
    ```bash
-   python arabic_asr.py
+   python app.py
    ```
 
 2. Once the script is running, a Gradio interface will launch in your browser.
